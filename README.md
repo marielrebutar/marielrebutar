@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mariel
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning through The Odin Project.
-- 💞️ I’m aiming to become a Web Developer in the next 12 months.
+- 👀 I’m interested in Data Anaytics and Data Science
+- 🌱 I’m currently learning through YouTube tutorials, Khan Academy and a paid bootcamp
+- 💞️ I’m aiming to become a Data Analyst in the next 3 months.
 
 <!---
 marielrebutar/marielrebutar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

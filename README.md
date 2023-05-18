@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mariel
 - 👀 I’m interested in Data Anaytics and Data Science
-- 🌱 I’m currently learning through YouTube tutorials, Khan Academy and a paid bootcamp
+- 🌱 I’m currently learning through YouTube tutorials, Codecademy and Skillshare
 
 <!---
 marielrebutar/marielrebutar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
